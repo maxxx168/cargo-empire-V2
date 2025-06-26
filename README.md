@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2e0b235a-bb00-47a7-bec9-ebfd3bb5ee91)
-![Uploading image.png…]()
 
-<!-- изменить Telegram Contact ID helper:
+изменить Telegram Contact ID 
 -открыть github
 -открыть этот репозиторий
 -выбрать index.html
@@ -11,4 +10,4 @@
 -2-е поле: новый текст для замены
 -"replace all" (без уведомления!)
 -"commit changes" зеленая кнопка вверху справа для сохранения и обновления изменений онлайн
--->
+
